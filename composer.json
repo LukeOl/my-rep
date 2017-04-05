@@ -1,0 +1,12 @@
+{
+    "name": "lolucha/composer-training",
+    "description": "Training of build composer package",
+    "type": "project",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Creatuity\\ComposerTraining\\": "lib"
+        }
+    }
+}
